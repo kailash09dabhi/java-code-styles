@@ -3,6 +3,14 @@ Java Code Styles
 
 IntelliJ IDEA code style settings for Square's Java and Android projects.
 
+Deprecated
+----------
+
+These code styles aren't maintained anymore. Block / Square has adopted 
+[ktfmt](https://github.com/facebook/ktfmt) with its code style. 
+[`.editorconfig`](https://spec.editorconfig.org/index.html) files are a better alternative to share
+code styles and are supported in Jetbrains IDEs. 
+
 
 Installation
 ------------
